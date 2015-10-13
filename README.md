@@ -1,7 +1,7 @@
 Centos 7 Vagrant Box Setup
 ================
 
-Setup to create a CentOS 7 Vagrant VM using Virtualbox.
+This is the setup I used to create a CentOS 7 Vagrant VM using Virtualbox, for a previous job and undergrad school-work.
 The Vagrant box will enable development using Python 3.3, Django 1.7, Apache HTTPd 2.4, and connections to PostgreSQL or SQL Server backends (using FreeTDS).
 
 ###dev_setup.sh usage
